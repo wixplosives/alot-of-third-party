@@ -1,0 +1,467 @@
+[
+  {
+    "name": "FluentUI",
+    "components": [
+      {
+        "name": "Accordion",
+        "exportName": "Accordion",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Avatar",
+        "exportName": "Avatar",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "AvatarGroup",
+        "exportName": "AvatarGroup",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Badge",
+        "exportName": "Badge",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Breadcrumb",
+        "exportName": "Breadcrumb",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Button",
+        "exportName": "Button",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Card",
+        "exportName": "Card",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Checkbox",
+        "exportName": "Checkbox",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "ComboBox",
+        "exportName": "ComboBox",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "DataGrid",
+        "exportName": "DataGrid",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Dialog",
+        "exportName": "Dialog",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Divider",
+        "exportName": "Divider",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Drawer",
+        "exportName": "Drawer",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Dropdown",
+        "exportName": "Dropdown",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Field",
+        "exportName": "Field",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "FluentProvider",
+        "exportName": "FluentProvider",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Image",
+        "exportName": "Image",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "InfoLabel",
+        "exportName": "InfoLabel",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Input",
+        "exportName": "Input",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Label",
+        "exportName": "Label",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Link",
+        "exportName": "Link",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Menu",
+        "exportName": "Menu",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "MessageBar",
+        "exportName": "MessageBar",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Overflow",
+        "exportName": "Overflow",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Persona",
+        "exportName": "Persona",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Popover",
+        "exportName": "Popover",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Portal",
+        "exportName": "Portal",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "ProgressBar",
+        "exportName": "ProgressBar",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "RadioGroup",
+        "exportName": "RadioGroup",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Select",
+        "exportName": "Select",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Skeleton",
+        "exportName": "Skeleton",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Slider",
+        "exportName": "Slider",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "SpinButton",
+        "exportName": "SpinButton",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Spinner",
+        "exportName": "Spinner",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Switch",
+        "exportName": "Switch",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Table",
+        "exportName": "Table",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "TabList",
+        "exportName": "TabList",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Tag",
+        "exportName": "Tag",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Text",
+        "exportName": "Text",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Textarea",
+        "exportName": "Textarea",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Toast",
+        "exportName": "Toast",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Toolbar",
+        "exportName": "Toolbar",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Tooltip",
+        "exportName": "Tooltip",
+        "filePath": "@fluentui/react-components"
+      },
+      {
+        "name": "Tree",
+        "exportName": "Tree",
+        "filePath": "@fluentui/react-components"
+      }
+    ]
+  },
+  {
+    "name": "Formik",
+    "components": [
+      {
+        "exportName": "FastField",
+        "filePath": "Formik",
+        "name": "FastField"
+      },
+      {
+        "exportName": "Field",
+        "filePath": "Formik",
+        "name": "Field"
+      },
+      {
+        "exportName": "FieldArray",
+        "filePath": "Formik",
+        "name": "FieldArray"
+      },
+      {
+        "exportName": "Form",
+        "filePath": "Formik",
+        "name": "Form"
+      },
+      {
+        "exportName": "Formik",
+        "filePath": "Formik",
+        "name": "Formik"
+      }
+    ]
+  },
+  {
+    "name": "MUI-Inputs",
+    "components": [
+      {
+        "name": "Autocomplete",
+        "exportName": "default",
+        "filePath": "@mui/material/Autocomplete"
+      },
+      {
+        "name": "Button",
+        "exportName": "default",
+        "filePath": "@mui/material/Button"
+      },
+      {
+        "name": "Checkbox",
+        "exportName": "default",
+        "filePath": "@mui/material/Checkbox"
+      },
+      {
+        "name": "Floating Action Button",
+        "exportName": "default",
+        "filePath": "@mui/material/Fab"
+      },
+      {
+        "name": "Radio Group",
+        "exportName": "default",
+        "filePath": "@mui/material/RadioGroup"
+      },
+      {
+        "name": "Rating",
+        "exportName": "default",
+        "filePath": "@mui/material/Rating"
+      },
+      {
+        "name": "Select",
+        "exportName": "default",
+        "filePath": "@mui/material/Select"
+      },
+      {
+        "name": "Slider",
+        "exportName": "default",
+        "filePath": "@mui/material/Slider"
+      },
+      {
+        "name": "Switch",
+        "exportName": "default",
+        "filePath": "@mui/material/Switch"
+      },
+      {
+        "name": "Text Field",
+        "exportName": "default",
+        "filePath": "@mui/material/TextField"
+      },
+      {
+        "name": "Transfer List",
+        "exportName": "default",
+        "filePath": "@mui/material/TransferList"
+      },
+      {
+        "name": "Toggle Button",
+        "exportName": "default",
+        "filePath": "@mui/material/ToggleButton"
+      }
+    ]
+  },
+  {
+    "name": "MUI-Data display",
+    "components": [
+      {
+        "name": "Avatar",
+        "exportName": "default",
+        "filePath": "@mui/material/Avatar"
+      },
+      {
+        "name": "Badge",
+        "exportName": "default",
+        "filePath": "@mui/material/Badge"
+      },
+      {
+        "name": "Chip",
+        "exportName": "default",
+        "filePath": "@mui/material/Chip"
+      },
+      {
+        "name": "Divider",
+        "exportName": "default",
+        "filePath": "@mui/material/Divider"
+      },
+      {
+        "name": "Icons",
+        "exportName": "default",
+        "filePath": "@mui/material/Icon"
+      },
+      {
+        "name": "Material Icons",
+        "exportName": "default",
+        "filePath": "@mui/icons-material"
+      },
+      {
+        "name": "List",
+        "exportName": "default",
+        "filePath": "@mui/material/List"
+      },
+      {
+        "name": "Table",
+        "exportName": "default",
+        "filePath": "@mui/material/Table"
+      },
+      {
+        "name": "Tooltip",
+        "exportName": "default",
+        "filePath": "@mui/material/Tooltip"
+      },
+      {
+        "name": "Typography",
+        "exportName": "default",
+        "filePath": "@mui/material/Typography"
+      }
+    ]
+  },
+  {
+    "name": "MUI-Feedback",
+    "components": [
+      {
+        "name": "Alert",
+        "exportName": "default",
+        "filePath": "@mui/material/Alert"
+      },
+      {
+        "name": "Backdrop",
+        "exportName": "default",
+        "filePath": "@mui/material/Backdrop"
+      },
+      {
+        "name": "Dialog",
+        "exportName": "default",
+        "filePath": "@mui/material/Dialog"
+      },
+      {
+        "name": "Progress",
+        "exportName": "default",
+        "filePath": "@mui/material/CircularProgress"
+      },
+      {
+        "name": "Skeleton",
+        "exportName": "default",
+        "filePath": "@mui/material/Skeleton"
+      },
+      {
+        "name": "Snackbar",
+        "exportName": "default",
+        "filePath": "@mui/material/Snackbar"
+      }
+    ]
+  },
+  {
+    "name": "MUI-Surfaces",
+    "components": [
+      {
+        "name": "Accordion",
+        "exportName": "default",
+        "filePath": "@mui/material/Accordion"
+      },
+      {
+        "name": "App Bar",
+        "exportName": "default",
+        "filePath": "@mui/material/AppBar"
+      },
+      {
+        "name": "Card",
+        "exportName": "default",
+        "filePath": "@mui/material/Card"
+      }
+    ]
+  },
+  {
+    "name": "MUI-Layout",
+    "components": [
+      {
+        "name": "Box",
+        "exportName": "default",
+        "filePath": "@mui/material/Box"
+      },
+      {
+        "name": "Container",
+        "exportName": "default",
+        "filePath": "@mui/material/Container"
+      },
+      {
+        "name": "Grid",
+        "exportName": "default",
+        "filePath": "@mui/material/Grid"
+      },
+      {
+        "name": "Stack",
+        "exportName": "default",
+        "filePath": "@mui/material/Stack"
+      },
+      {
+        "name": "Image List",
+        "exportName": "default",
+        "filePath": "@mui/material/ImageList"
+      },
+      {
+        "name": "Hidden",
+        "exportName": "default",
+        "filePath": "@mui/material/Hidden"
+      }
+    ]
+  }
+]
